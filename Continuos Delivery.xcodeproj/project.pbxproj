@@ -271,6 +271,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = A9WFR3T443;
 				INFOPLIST_FILE = "Continuos Delivery/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ADRApps.Continuos-Delivery";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -285,6 +286,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = A9WFR3T443;
 				INFOPLIST_FILE = "Continuos Delivery/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ADRApps.Continuos-Delivery";
 				PRODUCT_NAME = "$(TARGET_NAME)";
